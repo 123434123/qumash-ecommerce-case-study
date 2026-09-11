@@ -2,7 +2,7 @@
 
 A bilingual (Arabic/English) storefront concept for QUMASH, a fictional Cairo-based clothing atelier. Built to explore product browsing, search/filtering, and full RTL/LTR internationalization without any framework.
 
-**[Live Demo](https://123434123.github.io/qumash-ecommerce-case-study/admin/)** · **[Admin Dashboard for this project](../admin)**
+**[Live Demo](https://123434123.github.io/qumash-ecommerce-case-study/)** · **[Admin Dashboard for this project](https://123434123.github.io/qumash-ecommerce-case-study/admin/)**
 
 ## Features
 
